@@ -1,0 +1,27 @@
+
+Noosrat Rahman - 10 / 18 / 2017 - pd 2
+
+Psuedo.txt
+
+Create a set of instructions, as detailed as possible about one of the classic card games, that you observe.
+
+War
+Rules :
+1.2 players
+2.Each player gets 26 cards
+3.Each stack of 26 must be faced down
+4.One card from each person is turned over at the same time
+
+
+Instructions :
+There must be 2 players :
+	Each player turns over one card.
+	Look to see who has the bigger card :
+Whoever has the bigger card gets both that card and the opponents card.
+  If both cards are the same :
+  Put 3 cards facing down and side by side for each player and each player flip over any card in their row of three.Whoever
+  has the bigger card, gets all 6 cards and puts them face down under their stack :
+    If the cards are the same(and continue being the same) then keep turning over the row of three until one is bigger.
+    Do this everytime players turn the same card.
+Continue to flip the cards until one person has all of the card:
+  Whoever has the most cards, wins. 
