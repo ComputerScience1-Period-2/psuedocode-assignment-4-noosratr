@@ -14,7 +14,7 @@ Rules :
 
 
 Instructions :
-There must be 2 players :
+There can only be 2 players :
 	Each player turns over one card.
 	Look to see who has the bigger card :
 Whoever has the bigger card gets both that card and the opponents card.
@@ -23,5 +23,5 @@ Whoever has the bigger card gets both that card and the opponents card.
   has the bigger card, gets all 6 cards and puts them face down under their stack :
     If the cards are the same(and continue being the same) then keep turning over the row of three until one is bigger.
     Do this everytime players turn the same card.
-Continue to flip the cards until one person has all of the card:
-  Whoever has the most cards, wins. 
+Continue to flip the cards until one person has all of the cards:
+  Whoever holds more cards than the other, wins. 
