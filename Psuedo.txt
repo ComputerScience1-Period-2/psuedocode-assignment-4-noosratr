@@ -15,13 +15,13 @@ Rules :
 
 Instructions :
 There must be 2 players :
-	Each player turns over one card.
+	Each player turns over one card;
 	Look to see who has the bigger card :
-Whoever has the bigger card gets both that card and the opponents card.
+Whoever has the bigger card gets both that card and the opponents card and puts it on the bottom of their stack;
   If both cards are the same :
-  Put 3 cards facing down and side by side for each player and each player flip over any card in their row of three.Whoever
-  has the bigger card, gets all 6 cards and puts them face down under their stack :
-    If the cards are the same(and continue being the same) then keep turning over the row of three until one is bigger.
-    Do this everytime players turn the same card.
+  Put 3 cards facing down and side by side for each player and each player flip over any card in their row of three;
+  Whoever has the bigger card, gets all 6 cards and puts them face down under their stack :
+    If the cards are the same(and remains being the same) then keep turning over the row of three until one is bigger.
+    Do this everytime players turn the same card;
 Continue to flip the cards until one person has all of the card:
   Whoever has the most cards, wins. 
